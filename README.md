@@ -73,7 +73,7 @@ Authorization: Bearer <ACCESS_TOKEN>
 ## Swagger Documentation
 
 Swagger UI:
-http://127.0.0.1:8000/api/docs/
+http://127.0.0.1:8000
 
 Steps:
 1. Open Swagger
